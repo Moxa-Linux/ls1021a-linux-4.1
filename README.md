@@ -16,7 +16,7 @@
 # git branch -a
 ```
 
-#### If you want to build the specific version of am335x-linux-4.4 kernel source code. Please checkout the kernel source using tag.
+#### If you want to build the specific version of ls1021a-linux-4.1 kernel source code. Please checkout the kernel source using tag.
 
 ##### To show all the tags.
 ```
