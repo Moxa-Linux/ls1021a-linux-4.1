@@ -126,7 +126,9 @@ Backup the original kernel file and update it with new file
 Example:
 ```
 # mv moxa-uc8410a.dtb moxa-uc8410a.dtb_bak
+# mv uImage uImage_bak
 # cp /tmp/moxa-uc8410a.dtb .
+# cp /tmp/uImage .
 # sync
 ```
 
