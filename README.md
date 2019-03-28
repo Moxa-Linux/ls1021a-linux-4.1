@@ -60,7 +60,12 @@ Example:
 # make moxa-uc8580.dtb
 ```
 
-#### 4. Strip and install kernel modules:
+#### 4. make kernel modules:
+```
+# make modules
+```
+
+#### 5. Strip and install kernel modules:
 ```
 # make INSTALL_MOD_STRIP=1 modules_install INSTALL_MOD_PATH=<YOUR DIRECTORY>
 ```
